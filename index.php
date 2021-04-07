@@ -37,7 +37,7 @@ $settings = [
                     <div class="input-group">
                         <input type="text" name="qrtext" class="form-control"
                                placeholder="enter text (max <?= $settings['max-character']; ?> character)" required="">
-                        <button type="submit" class="btn btn-secondary">oluştur</button>
+                        <button type="submit" class="btn btn-secondary">generate qr code</button>
                     </div>
                 </div>
             </form>
