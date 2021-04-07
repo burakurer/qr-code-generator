@@ -8,5 +8,7 @@
 	I used Google Charts Api.
 </div>
 
+<div align="center">
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
+</div>
